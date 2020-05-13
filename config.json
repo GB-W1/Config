@@ -1,7 +1,7 @@
 {
   "description": {
-    "name": "Contiguous U.S., Average Temperature",
-    "test": "Degrees Fahrenheit",
-    "num": "1901-2000"
+    "name": "testing",
+    "test": "true",
+    "num": "5"
   }
 }
